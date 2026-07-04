@@ -1,0 +1,2 @@
+# PointEmacsQuarto
+Quarto_Emacs

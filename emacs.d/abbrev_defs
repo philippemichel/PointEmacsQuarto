@@ -1,0 +1,25 @@
+;;-*-coding: utf-8;-*-
+(define-abbrev-table 'ess-r-mode-abbrev-table
+  '(
+    ("mm" " |>
+" nil :count 1)
+   ))
+
+(define-abbrev-table 'markdown-mode-abbrev-table
+  '(
+    ("ch" "```{r}
+#| label:
+
+```" nil :count 5)
+    ("chf" "```{r}
+#| label:
+#| fig-cap:
+
+``` " nil :count 2)
+    ("cht" "```{r}
+#| label:
+#| tab-cap:
+
+``` " nil :count 3)
+   ))
+

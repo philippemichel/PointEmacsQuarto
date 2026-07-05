@@ -1,0 +1,67 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Jun 11 13:31:10 2026
+;; Desktop file format version 208
+;; Emacs version 30.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (27178 40062 917835 580000) (desktop . "208") "philm@philm-laptop" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-SRC -Hack-regular-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "black") (background-color . "white") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen . fullheight) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . light) (cursor-color . "black") (font-parameter) (modeline . t) (unsplittable) (frameset--id . "B97D-6D2D-BF43-04D8") (frameset--mini t) (display . ":0") (sticky) (shaded) (dnd-root-window-position) (last-focus-update) (icon-name) (explicit-name) (user-size . t) (height . 57) (width . 115) (left . 960) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 956) (pixel-height . 959) (total-width . 119) (total-height . 56) (normal-height . 1.0) (normal-width . 1.0) (buffer ".Rbuildignore" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 133) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-SRC -Hack-regular-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "black") (background-color . "white") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen . fullheight) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . light) (cursor-color . "black") (font-parameter) (sticky) (shaded) (environment "I3SOCK=/run/user/1000/i3/ipc-socket.1503" "PWD=/home/philm" "XDG_VTNR=2" "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1" "QT_ACCESSIBILITY=1" "SHELL=/bin/bash" "SSH_AUTH_SOCK=/home/philm/.ssh/agent/s.Vxd6WCgAJF.agent.Z8e9a73vyn" "XAUTHORITY=/tmp/xauth_dOwxKy" "XDG_SESSION_DESKTOP=i3" "DESKTOP_STARTUP_ID=i3/sh/1503-6-philm-laptop_TIME8803557" "XDG_CURRENT_DESKTOP=i3" "LANG=fr_FR.UTF-8" "DISPLAY=:0" "XDG_RUNTIME_DIR=/run/user/1000" "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1" "PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games" "XDG_SESSION_ID=3" "XDG_SESSION_CLASS=user" "LOGNAME=philm" "DEBUGINFOD_URLS=https://debuginfod.debian.net " "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus" "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0" "DESKTOP_SESSION=i3" "HOME=/home/philm" "SHLVL=0" "SSH_AGENT_PID=1548" "XDG_SESSION_TYPE=x11" "XDG_SEAT=seat0" "PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket" "USER=philm") (dnd-root-window-position) (last-focus-update) (frameset--id . "7F60-5D95-0FD5-2CF2") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (user-size . t) (height . 57) (width . 115) (left . 0) (top . 0)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 136) (min-pixel-width . 80) (min-pixel-height-ignore . 68) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 34) (min-pixel-width-safe . 16)) vc (pixel-width . 956) (pixel-height . 959) (total-width . 119) (total-height . 56) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 956) (pixel-height . 482) (total-width . 119) (total-height . 28) (normal-height . 0.5031315240083507) (normal-width . 1.0) (buffer "PetitPoids_plan_analyse.tex" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 325) (start . 1)) (prev-buffers (".Rbuildignore" 1 98) ("sedrea.tex" 11508 12101) ("link.tex" 139 190))) (leaf (last . t) (pixel-width . 956) (pixel-height . 477) (total-width . 119) (total-height . 28) (normal-height . 0.4968684759916493) (normal-width . 1.0) (buffer "*~/usrc/Petit-Poids/PetitPoids_plan_analyse output*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("prop" 0 4 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/usrc/Petit-Poids/PetitPoids_plan_analyse.tex" "/home/philm/usrc/Petit-Poids/PetitPoids_plan_analyse.tex" "~/pratique/baseph/.Rbuildignore" "~/actif/cours/sedrea/sedrea.tex" "~/actif/test/link.tex" "/home/philm/actif/cours/nutrition/nn.tex" "~/usrc/NOVOPAL/generique.tex" "~/.emacs.d/.cache/treemacs-persist" "~/actif/cours/sedrea/sedrea.tex" "~/actif/cours/sedrea/_region_.tex" "~/.config/i3/config" "~/usrc/PETRUS/Validation_lecteurs/validation.qmd" "~/usrc/PETRUS/Validation_lecteurs/import_validation.R" "~/usrc/PETRUS/generique.tex" "~/usrc/PETRUS/plan_analyse.html" "~/usrc/PETRUS/plan_analyse.pdf" "~/.emacs" "~/.emacs2" "~/usrc/PETRUS/Validation_lecteurs/validation_lecteurs.qmd"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/philm/usrc/Petit-Poids/PetitPoids_plan_analyse.tex"
+  "PetitPoids_plan_analyse.tex"
+  'LaTeX-mode
+  '(TeX-PDF-mode text-scale-mode font-lock-mode company-mode reftex-mode outline-minor-mode)
+  325
+  '(382 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 27178 40032 914439 228000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (276 382 296 296 382 372 296 276 382 325))))
+
+(desktop-create-buffer 208
+  "/home/philm/pratique/baseph/.Rbuildignore"
+  ".Rbuildignore"
+  'ess-r-mode
+  '(font-lock-mode eldoc-mode ess-r-package-mode company-mode cursor-intangible-mode flymake-mode ess-roxy-mode)
+  133
+  '(133 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 27178 39957 779849 129000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (133 133 133 98 1 133 121 133 133))))
+
+(desktop-create-buffer 208
+  "/home/philm/actif/cours/sedrea/sedrea.tex"
+  "sedrea.tex"
+  'LaTeX-mode
+  '(TeX-interactive-mode outline-minor-mode reftex-mode company-mode font-lock-mode TeX-PDF-mode nlinum-mode)
+  17493
+  '(12618 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 27178 39875 476954 310000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (9461 8275 8378 8220 8198 8644 8580 8527 8470 8526 8518 8470 8526 8501 8117 17493))))
+
+(desktop-create-buffer 208
+  "/home/philm/actif/test/link.tex"
+  "link.tex"
+  'LaTeX-mode
+  '(TeX-PDF-mode font-lock-mode company-mode reftex-mode outline-minor-mode)
+  190
+  '(124 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 27178 39027 745292 601000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (207 225 207 159 141 267 214 207 334 154 141 124 3082 227 1525 190))))
+
